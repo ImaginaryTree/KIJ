@@ -20,3 +20,4 @@ Enigma adalah nama mesin penyandi yang digunakan oleh Jerman Nazi untuk mengirim
 ### Referensi
 
 [Rotor Wiring Setting : https://en.wikipedia.org/wiki/Enigma_rotor_details](https://en.wikipedia.org/wiki/Enigma_rotor_details)
+[More Detailed Explaination of Enigma : https://en.wikipedia.org/wiki/Enigma_rotor_details](https://id.wikipedia.org/wiki/Mesin_Enigma)
