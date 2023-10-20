@@ -17,3 +17,6 @@ Enigma adalah nama mesin penyandi yang digunakan oleh Jerman Nazi untuk mengirim
 - Selain itu, operator juga dapat menukar posisi beberapa pasang huruf di steker sebelum memulai penyandian. Hal ini juga akan menambah tingkat kerumitan sandi. Misalnya, jika operator menukar A dengan Z di steker, maka A tidak akan disandikan menjadi U lagi, tetapi menjadi Z.
 - Untuk menyandikan atau menyahsandikan pesan dengan mesin Enigma, operator harus mengetahui kunci atau setting yang digunakan. Kunci ini biasanya ditentukan oleh aturan harian atau bulanan yang dibagikan oleh komando militer Jerman. Kunci ini harus dirahasiakan dari pihak musuh agar pesan tidak dapat dibaca.
 
+### Referensi
+
+[Rotor Wiring Setting : https://en.wikipedia.org/wiki/Enigma_rotor_details](https://en.wikipedia.org/wiki/Enigma_rotor_details)
